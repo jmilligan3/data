@@ -4,14 +4,14 @@
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c96",
   "features": [
     {
-      "name": "Political Map November 2020",
-      "creator": "/u/Slushhi1",
+      "name": "Political Map December 2019",
+      "creator": ".",
       "web": "https://www.reddit.com/r/civclassics/comments/dwks0t/november_political_map/",
       "map_image": {
-        "url": "https://i.imgur.com/3Xzaoq3.png",
+        "url": "https://i.imgur.com/ew7wxEG.png",
         "bounds": [[-13312,-13312],[13312,13312]]
       },
-      "id": "11dd43e7-ff2d-4e2b-980f-10fb32c00763"
+      "id": "11dd43e7-ff2d-4e2b-980f-10fb32c00764"
     }
   ],
   "presentations": [
@@ -23,7 +23,7 @@
             "feature_key": "id",
             "default": 0,
             "categories": {
-              "11dd43e7-ff2d-4e2b-980f-10fb32c00763": 0.8
+              "11dd43e7-ff2d-4e2b-980f-10fb32c00764": 0.8
             }
           }
         },
