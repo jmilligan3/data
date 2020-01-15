@@ -19,13 +19,7 @@
       "name": "Rail Map January 2020",
       "zoom_styles": {
         "-6": {
-          "opacity": {
-            "feature_key": "id",
-            "default": 0,
-            "categories": {
-              "11dd43e7-ff2d-4e2b-980f-10fb32c00764": 0.8
-            }
-          }
+          
         },
         
       }
