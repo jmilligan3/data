@@ -1,14 +1,14 @@
 {
   "name": "Political: Nations, Claims",
   "info": {"version": "3.0.0-beta3","last_update": 1579052278},
-  "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c96",
+  "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c97",
   "features": [
     {
-      "name": "Political Map January 2020",
-      "creator": "/u/Yellofishy",
-      "web": "https://www.reddit.com/r/CivRealms/comments/enck63/january_political_alliance_map/",
+      "name": "Political Map February 2020",
+      "creator": "Twinkieminer / RavenRavenRaven",
+      "web": "https://www.reddit.com/r/CivRealms/comments/f2sqwu/as_twinkieminer_refused_to_be_objective_i_edited/",
       "map_image": {
-        "url": "https://i.imgur.com/prl19Cr.jpg",
+        "url": "https://raw.githubusercontent.com/civrealmsmap/data/master/twinkiemap_ravenedit.png",
         "bounds": [[-3072,-14208],[10623,1919]]
       },
       "id": "11dd43e7-ff2d-4e2b-980f-10fb32c00763"
@@ -16,7 +16,7 @@
   ],
   "presentations": [
     {
-      "name": "Political Map January 2020",
+      "name": "Political Map February 2020",
       "zoom_styles": {
         "-6": {
           "opacity": {
