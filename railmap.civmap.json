@@ -1,14 +1,14 @@
 {
   "name": "Railmap.",
-  "info": {"version": "3.0.0-beta3","last_update": 1579155555},
+  "info": {"version": "3.0.0-beta3","last_update": 1579155557},
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c30",
   "features": [
     {
-      "name": "Rail Map January 2020",
-      "creator": "TheFallenHero#7897",
-      "web": "https://ptb.discordapp.com/channels/459594386439798787/459594386439798789/666701032470085632",
+      "name": "Rail Map February 2020",
+      "creator": "UnrealJesus, DarkyDu",
+      "web": "https://www.reddit.com/r/CivRealms/comments/fj10hl/comprehensive_rail_horse_and_waterways_map_feb/",
       "map_image": {
-        "url": "https://i.imgur.com/eF5ikq7.png",
+        "url": "https://i.redd.it/gifq7hff4um41.png",
         "bounds": [[-3072,-14208],[10623,1919]]
       },
       "id": "11dd43e7-ff2d-4e2b-980f-10fb32c00730"
