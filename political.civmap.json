@@ -1,14 +1,14 @@
 {
   "name": "Political: Nations, Claims",
-  "info": {"version": "3.0.0-beta3","last_update": 1579052279},
+  "info": {"version": "3.0.0-beta3","last_update": 1579052280},
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c97",
   "features": [
     {
       "name": "Political Map March 2020",
-      "creator": "MSPaintDaily, TWINKIEminer",
-      "web": "https://www.reddit.com/r/CivRealms/comments/fs73yn/ok_sorry_for_the_repost_but_had_a_few_issues/",
+      "creator": "TWINKIEminer",
+      "web": "https://www.reddit.com/r/CivRealms/comments/fyv3ts/big_changes_civrealms_political_map_april_10_2020/",
       "map_image": {
-        "url": "https://raw.githubusercontent.com/civrealmsmap/data/master/map.png",
+        "url": "https://imgur.com/a/CSBteGk",
         "bounds": [[-3072,-14208],[10623,1919]]
       },
       "id": "11dd43e7-ff2d-4e2b-980f-10fb32c00763"
