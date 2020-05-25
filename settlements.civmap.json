@@ -61,7 +61,8 @@
       }
     }
   ],
-"info": {"version": "3.0.0-beta3", "last_update": 1587996743}, "features": [{"name": "Accelerada", "x": 5286, "z": -4619, "nation": "The Free Economic Zone of Accelerada", "contact": "noahravn, ieatazz69", "discord": "https://discord.gg/f2XGHkY", "wiki": "https://civrealms.miraheze.org/wiki/Accelerada", "visitors": "welcome", "Zoom Visibility": 2, "notes": "Capital City", "id": "S22"},
+"info": {"version": "3.0.0-beta3", "last_update": 1587996743}, "features": [
+{"name": "Accelerada", "x": 5286, "z": -4619, "nation": "The Free Economic Zone of Accelerada", "contact": "noahravn, ieatazz69", "discord": "https://discord.gg/f2XGHkY", "wiki": "https://civrealms.miraheze.org/wiki/Accelerada", "visitors": "welcome", "Zoom Visibility": 2, "notes": "Capital City", "id": "S22"},
 {"name": "Alexandria", "x": 5677, "z": -3228, "nation": "Alexandria", "contact": "TTastic, Albyrt, Jaydon_", "discord": "https://discord.gg/METThWq", "wiki": "https://civrealms.miraheze.org/w/index.php?search=Alexandria&title=Special%3ASearch&go=Go", "visitors": "welcome", "Zoom Visibility": 1, "notes": "Capital City", "id": "S5"},
 {"name": "Amaryllis", "x": 3831, "z": -6782, "nation": "Mount Augusta", "contact": "DaisyFresh", "visitors": "welcome", "Zoom Visibility": 2, "id": "S13"},
 {"name": "Anvard", "x": 3370, "z": -820, "nation": "Anvard (IWW)", "contact": "VolutionFs, ieatazz69, fantasworm", "visitors": "ask beforehand", "Zoom Visibility": 1, "id": "S19"},
@@ -100,5 +101,5 @@
 {"name": "Wheaton", "x": 5980, "z": -6500, "nation": "Wheatistan", "visitors": "welcome", "Zoom Visibility": 1, "id": "S11"},
 {"name": "Xiangmu", "x": 1111, "z": -7000, "nation": "Unitas (Accelerada)", "discord": "http://discord.gg/qvGVHzw", "wiki": "https://civrealms.miraheze.org/wiki/Unitas", "symbol": "https://static.miraheze.org/civrealmswiki/0/03/Unitas_Xiangmu_Flag.png", "visitors": "welcome", "Zoom Visibility": 4, "notes": "Capital City", "id": "S4"},
 {"name": "Xifang", "x": 1200, "z": -8000, "nation": "Unitas (Accelerada)", "discord": "http://discord.gg/qvGVHzw", "wiki": "https://civrealms.miraheze.org/wiki/Unitas", "symbol": "https://static.miraheze.org/civrealmswiki/c/cd/Unitas_Xifang_Flag.png", "visitors": "welcome", "Zoom Visibility": 4, "id": "S6"},
-{"name": "Yoslan", "x": 1040, "z": -9420, "nation": "Norlund", "contact": "1234fireball", "visitors": "welcome", "Zoom Visibility": 1, "notes": "V??tgil language speakers", "id": "S31"},
+{"name": "Yoslan", "x": 1040, "z": -9420, "nation": "Norlund", "contact": "1234fireball", "visitors": "welcome", "Zoom Visibility": 1, "notes": "Vötgil language speakers", "id": "S31"},
 {"name": "Zexenia", "x": -815, "z": -6897, "nation": "Savaguard", "contact": "FuzzyMitz", "Zoom Visibility": 1, "notes": "Capital City", "id": "S8"}]}
