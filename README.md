@@ -2,8 +2,7 @@ CivRealmsMapMap Data
 ==========
 
 ## How to submit a change
-
-https://docs.google.com/spreadsheets/d/1FUf5MLekL9CPOUY07re2nhrZ2qB4v2ZOwZnRbqzmKs8/edit#gid=0
+https://docs.google.com/spreadsheets/d/1x75OQuLGHG5tJxjI7qxNX1kqJDxdTu9ps6f3GSJJphU/edit?usp=sharing
 
 DM Raven#0971 or /u/RavenMC_ or comment changes you want to see
 
