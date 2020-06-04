@@ -69,7 +69,7 @@
 {"name": "Anvard", "x": 3370, "z": -820, "nation": "Anvard (IWW)", "contact": "VolutionFs, ieatazz69, fantasworm", "wiki": "https://civrealms.miraheze.org/wiki/Anvard", "visitors": "ask beforehand", "Zoom Visibility": 1, "id": "S19"},
 {"name": "Arelat", "x": 1776, "z": -6865, "nation": "Arelat", "Zoom Visibility": 1, "id": "S105"},
 {"name": "Bloom", "x": 3822, "z": -5289, "nation": "Carbon", "contact": "Slushhi", "visitors": "welcome", "Zoom Visibility": 1, "id": "S103"},
-{"name": "Boris", "x": 4380, "z": -5900, "nation": "Mount Augusta", "Zoom Visibility": 2, "id": "S102"},
+{"name": "new new boris", "x": 4380, "z": -5900, "nation": "Mount Augusta", "visitors": "welcome", "9chan": "/boris/", "Zoom Visibility": 2, "id": "S102"},
 {"name": "Braxos", "x": 2022, "z": -8401, "nation": "Moloka", "contact": "Kalypso, Maxpowerboy, Pirater", "discord": "https://discord.gg/YuWkzSh", "Zoom Visibility": 1, "notes": "Capital City", "id": "S7"},
 {"name": "Bremerhaven", "x": 8010, "z": -10170, "nation": "Commune of Bremerhaven (IWW)", "contact": "Narwhal_19", "image": "https://i.imgur.com/70Fgjiv.png", "image_album": "https://imgur.com/a/XQVQ18Z", "discord": "https://discord.gg/stp4uP6", "wiki": "https://civrealms.miraheze.org/wiki/Bremerhaven", "symbol": "https://static.miraheze.org/civrealmswiki/b/b8/Bremerhaven_Flag.png", "visitors": "welcome", "Zoom Visibility": 1, "notes": "Capital City", "id": "S36"},
 {"name": "Cantina", "x": 3412, "z": -3741, "nation": "Cantina", "Zoom Visibility": 1, "id": "S113"},
