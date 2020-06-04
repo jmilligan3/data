@@ -3,13 +3,6 @@ CivRealmsMapMap Data
 
 ## How to submit a change via Pull Request
 
-1. Log in to Github
-1. Open the file you want to change, for example [settlements.civmap.json](https://github.com/civrealmsmap/data/tree/master/settlements.civmap.json)
-1. On the top right, click the edit pen
-1. Make your changes
-1. Check for JSON formatting errors: paste everything into [JSONLint](https://jsonlint.com/?reformat=no)
-1. At the bottom, click `Propose file change`
-1. Once the page loads, click `Create Pull Request`
+https://docs.google.com/spreadsheets/d/1FUf5MLekL9CPOUY07re2nhrZ2qB4v2ZOwZnRbqzmKs8/edit#gid=0
 
-Thank you for contributing to CCMap!
-
+DM Raven#0971 or /u/RavenMC_ or comment changes you want to see
