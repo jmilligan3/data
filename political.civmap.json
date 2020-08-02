@@ -1,14 +1,14 @@
 {
   "name": "Political: Nations, Claims",
-  "info": {"version": "3.0.0-beta3","last_update": 1579052283},
+  "info": {"version": "3.0.0-beta3","last_update": 1579052284},
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c99",
   "features": [
     {
-      "name": "Political Map July 2020",
-      "creator": "TWINKIEminer",
+      "name": "Political Map August 2020",
+      "creator": "MSPaintDaily",
       "web": "xx",
       "map_image": {
-        "url": "https://i.imgur.com/0AW6bnT.jpg",
+        "url": "https://www.mediafire.com/convkey/08c6/n4h5lp91z01j8p8zg.jpgg",
         "bounds": [[-3072,-14208],[10623,1919]]
       },
       "id": "11dd43e7-ff2d-4e2b-980f-10fb32c00763"
@@ -16,7 +16,7 @@
   ],
   "presentations": [
     {
-      "name": "Political Map July 2020",
+      "name": "Political Map August 2020",
       "zoom_styles": {
         "-6": {
           "opacity": {
