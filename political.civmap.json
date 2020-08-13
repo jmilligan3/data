@@ -1,34 +1,43 @@
 {
-  "name": "Political: Nations, Claims",
-  "info": {"version": "3.0.0-beta3","last_update": 1579052284},
+  "name": "Political Maps August 1, 2020",
+  "info": {"version": "3.0.0-beta3","last_update": 1597350947},
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c99",
   "features": [
     {
-      "name": "Political Map August 2020",
+      "name": "Le Monde Political Map August 2020",
       "creator": "MSPaintDaily",
-      "web": "xx",
+      "web": "https://www.reddit.com/r/CivRealms/comments/i23ok3/civrealms_claims_map_august_1_2020/",
       "map_image": {
         "url": "https://www.mediafire.com/convkey/08c6/n4h5lp91z01j8p8zg.jpg",
         "bounds": [[-3072,-14208],[10623,1919]]
       },
-      "id": "11dd43e7-ff2d-4e2b-980f-10fb32c00763"
+      "id": "11dd43e7-ff2d-4e2b-980f-10fb32c03763"
+    },
+    {
+      "name": "Thomas Archipelago Political Map August 2020",
+      "creator": "MSPaintDaily",
+      "web": "https://www.reddit.com/r/CivRealms/comments/i23ok3/civrealms_claims_map_august_1_2020/",
+      "map_image": {
+        "url": "https://www.mediafire.com/convkey/cdcb/drkqrhibevniwu9zg.jpg",
+        "bounds": [[-15104,-17152],[-12800,-12544]]
+      },
+      "id": "11dd43e7-ff2d-4e2b-980f-10fb32c02763"
+    },
+    {
+      "name": "new_world Political Map August 2020",
+      "creator": "MSPaintDaily",
+      "web": "https://www.reddit.com/r/CivRealms/comments/i23ok3/civrealms_claims_map_august_1_2020/",
+      "map_image": {
+        "url": "https://i.imgur.com/ogEEJNs.jpg",
+        "bounds": [[-28672,1537],[-22525,7167]]
+      },
+      "id": "11dd43e7-ff2d-4e2b-980f-10fb32c01763"
     }
   ],
   "presentations": [
     {
-      "name": "Political Map August 2020",
-      "zoom_styles": {
-        "-6": {
-          "opacity": {
-            "feature_key": "id",
-            "default": 0.5,
-            "categories": {
-              "11dd43e7-ff2d-4e2b-980f-10fb32c00763": 0.6
-            }
-          }
-        },
-        "1": { "opacity": 0 }
-      }
+      "name": "Political Maps August 1, 2020",
+      "style_base": { "opacity": 0.5 }
     }
   ]
 }
