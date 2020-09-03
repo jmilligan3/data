@@ -1,6 +1,6 @@
 {
   "name": "Political Maps August 1, 2020",
-  "info": {"version": "3.0.0-beta3","last_update": 1597350947},
+  "info": {"version": "3.0.0-beta3","last_update": 1597350948},
   "id": "46346c91-90dd-44fc-aa6b-0fe9e90b6c99",
   "features": [
     {
@@ -8,7 +8,7 @@
       "creator": "MSPaintDaily",
       "web": "https://www.reddit.com/r/CivRealms/comments/i23ok3/civrealms_claims_map_august_1_2020/",
       "map_image": {
-        "url": "https://www.mediafire.com/convkey/08c6/n4h5lp91z01j8p8zg.jpg",
+        "url": "http://www.mediafire.com/convkey/76cc/xu92wmvbhpo1ntbzg.jpg",
         "bounds": [[-3072,-14208],[10623,1919]]
       },
       "id": "11dd43e7-ff2d-4e2b-980f-10fb32c03763"
